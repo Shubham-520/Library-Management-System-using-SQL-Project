@@ -502,15 +502,10 @@ This project demonstrates the application of SQL skills in creating and managing
 ## How to Use
 
 1. **Clone the Repository**: Clone this repository to your local machine.
-   ```
-  
-   ```
-
 2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
 3. **Run the Queries**: Use the SQL queries in the `analysis_queries.sql` file to perform the analysis.
 4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
 
-- **Discord**: [Join our community for learning and collaboration](https://discord.gg/36h5f2Z5PK)
 
 Thank you for your interest in this project!
